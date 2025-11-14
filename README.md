@@ -1,0 +1,1 @@
+This Streamlit application provides an AI-powered predictive maintenance system designed to monitor machine health and predict potential failures before they occur. The dashboard offers real-time monitoring, failure risk predictions, performance analytics, and batch processing capabilities.
